@@ -1,0 +1,1 @@
+Desktop application will be built in Rust Tauri

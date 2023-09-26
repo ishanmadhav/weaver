@@ -1,0 +1,1 @@
+Golang or Rust based backend for file storage. Could be image storage or document storage
