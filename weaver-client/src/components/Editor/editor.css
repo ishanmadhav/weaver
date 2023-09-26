@@ -1,0 +1,38 @@
+.ProseMirror {
+    min-height: 88vh;
+    border: 1px solid #ddd;
+    outline: none;
+}
+
+.ProseMirror h1 {
+    @apply text-4xl;
+}
+
+.ProseMirror h2 {
+    @apply text-3xl
+}
+
+.ProseMirror h3 {
+    @apply text-2xl
+}
+  
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+  
+/* Track */
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+  
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 5px;
+}
+  
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
